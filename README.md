@@ -1,6 +1,6 @@
-# Centro de Conciliación Requejo Iustitia Et Pax
+# Centro de Conciliación Requejo Justicia & Paz
 
-Web del Centro de Conciliación Extrajudicial **Requejo Iustitia Et Pax** (Chota, Cajamarca, Perú), dirigido por **Yovana Requejo Rojas**.
+Web del Centro de Conciliación Extrajudicial **Requejo Justicia & Paz** (Chota, Cajamarca, Perú), dirigido por **Yovana Requejo Rojas**.
 
 Cada botón y formulario de la página abre WhatsApp (**+51 923 151 781**) con un mensaje que ya indica el servicio que eligió el cliente.
 
@@ -29,10 +29,8 @@ Busque `[` en `index.html` para encontrar:
 
 - `[N.° DE RESOLUCIÓN]` de autorización del MINJUSDH
 - `[N.° DE REGISTRO]` de la conciliadora
-- `[DIRECCIÓN]` y `[CORREO]`
 - `[TARIFAS]`
 - `[FOTO DE LA CONCILIADORA O DEL LOCAL]`: reemplazar por `<img src="assets/img/foto.jpg" alt="Yovana Requejo Rojas">`
-- Mapa: cambiar `q=Chota,+Cajamarca,+Peru` del iframe por la dirección exacta
 
 ## Publicar
 
