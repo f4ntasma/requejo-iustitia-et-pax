@@ -27,7 +27,6 @@ assets/img/logo.svg     Logo / favicon
 
 Busque `[` en `index.html` para encontrar:
 
-- `[N.° DE RESOLUCIÓN]` de autorización del MINJUSDH
 - `[N.° DE REGISTRO]` de la conciliadora
 - `[TARIFAS]`
 - `[FOTO DE LA CONCILIADORA O DEL LOCAL]`: reemplazar por `<img src="assets/img/foto.jpg" alt="Yovana Requejo Rojas">`
