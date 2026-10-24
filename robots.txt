@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://requejo-justicia-paz.vercel.app/sitemap.xml
