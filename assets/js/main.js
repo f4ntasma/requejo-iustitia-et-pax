@@ -28,7 +28,6 @@
     bienes: "sobre bienes, herencia o propiedad",
     contratos: "sobre un contrato o un negocio",
     vecinos: "por un problema entre vecinos",
-    laboral: "sobre un asunto laboral",
     consumo: "sobre un producto o servicio",
     otro: ""
   };
