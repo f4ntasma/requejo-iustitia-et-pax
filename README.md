@@ -16,20 +16,22 @@ Cada botón y formulario de la página abre WhatsApp (**+51 923 151 781**) con u
 ## Estructura
 
 ```
-index.html              Página única
-assets/css/styles.css   Estilos (paleta blanco, negro y dorado en :root)
-assets/js/config.js     Número de WhatsApp y saludo: editar aquí
-assets/js/main.js       Enlaces a WhatsApp, formulario y menú móvil
-assets/img/logo.svg     Logo / favicon
+index.html              Página principal
+privacidad.html         Política de privacidad y seguridad (Ley N.° 29733)
+cookies.html            Política de cookies
+assets/css/styles.css   Estilos (paleta azul marino, dorado y marfil del logo, en :root)
+assets/js/config.js     Número de WhatsApp y nombre del centro: editar aquí
+assets/js/main.js       Mensajes de WhatsApp, formulario, menú móvil y aviso de cookies
+assets/img/             Emblema, logo completo, foto de la directora, íconos e imagen para redes
+vercel.json             Cabeceras de seguridad (HTTPS, CSP, anti-iframe) en Vercel
 ```
 
-## Datos pendientes de completar
+El mapa de Google solo se carga si la persona acepta las cookies de terceros.
 
-Busque `[` en `index.html` para encontrar:
+## Datos pendientes
 
-- `[N.° DE REGISTRO]` de la conciliadora
-- `[TARIFAS]`
-- `[FOTO DE LA CONCILIADORA O DEL LOCAL]`: reemplazar por `<img src="assets/img/foto.jpg" alt="Yovana Requejo Rojas">`
+- N.° de registro de la conciliadora y N.° de resolución de autorización del MINJUSDH.
+- Tarifas por materia.
 
 ## Publicar
 
